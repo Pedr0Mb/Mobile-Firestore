@@ -14,7 +14,7 @@
     "react-native": "0.79.6",
     "@expo/vector-icons": "^14.1.0",
     "react-native-paper": "4.9.2",
-    "firebase": "9.22.0"
+    "firebase": "8.10.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
